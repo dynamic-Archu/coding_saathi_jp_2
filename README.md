@@ -109,5 +109,3 @@ Please visit [imgur](https://imgur.com/a/wuw9Yaa) for more screenshots.
 
 <br>
 
-## License
-Available under [Mozilla Public License 2.0](https://github.com/aesophor/hacklympics/blob/master/LICENSE).
